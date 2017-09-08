@@ -1,1 +1,1 @@
-foo: buymybooktomorrowplease
+prologue: buymybooktomorrowplease
