@@ -1,3 +1,3 @@
 master:
-  '*':
+  'testminion':
     - testingpillar
