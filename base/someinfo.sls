@@ -1,1 +1,1 @@
-data: this is some test info
+data: this is the {{ grains['id'] }} minion 
