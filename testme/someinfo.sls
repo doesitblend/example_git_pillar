@@ -1,1 +1,1 @@
-data2: this is from the {{ saltenv }} environment
+data2: this is from the {{ saltenv}} environment

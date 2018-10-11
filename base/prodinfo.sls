@@ -1,2 +1,2 @@
-data: this is the {{ grains['id'] }} minion 
+data: this is {{ grains['id'] }}
 myenv: {{ saltenv }}
