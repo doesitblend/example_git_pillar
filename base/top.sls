@@ -1,3 +1,3 @@
 {{ saltenv }}:
   '*':
-    - someinfo
+    - prodinfo
